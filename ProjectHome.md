@@ -1,0 +1,1 @@
+Allows user to choose fast food meals based on their daily caloric intake. The diet is based on  diabetic exchange diet.
